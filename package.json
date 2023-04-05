@@ -1,0 +1,24 @@
+{
+  "name": "qapio-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@testdeck/core": "^0.3.3",
+    "@testdeck/mocha": "^0.3.3",
+    "chai": "^4.3.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arieldf/qapio-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arieldf/qapio-sdk/issues"
+  },
+  "homepage": "https://github.com/arieldf/qapio-sdk#readme"
+}
