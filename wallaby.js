@@ -1,6 +1,6 @@
 module.exports = function (w) {
-    console.log("LHD")
     return {
+        trace: true,
         files: [
             './src/**/*.ts'
         ],

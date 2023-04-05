@@ -16,7 +16,7 @@
     "url": "git+https://github.com/arieldf/qapio-sdk.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/arieldf/qapio-sdk/issues"
   },
