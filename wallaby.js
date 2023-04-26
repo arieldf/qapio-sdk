@@ -6,7 +6,7 @@ module.exports = function (w) {
         ],
 
         tests: [
-            './tests/**/*Tests.ts'
+            './tests/**/*Tests.tsx'
         ],
         testFramework: "mocha",
         env: {

@@ -7,9 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.1",
     "@testdeck/core": "^0.3.3",
     "@testdeck/mocha": "^0.3.3",
     "chai": "^4.3.7"
+  },
+  "dependencies": {
+    "mobx-state-tree": "^5.1.8",
+    "mobx-react": "^7.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "repository": {
     "type": "git",
