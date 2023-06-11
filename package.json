@@ -14,10 +14,12 @@
     "chai": "^4.3.7"
   },
   "dependencies": {
+    "@algolia/coquille": "^0.0.21",
     "mobx-state-tree": "^5.1.8",
     "mobx-react": "^7.6.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "minimist": "^1.2.8"
   },
   "repository": {
     "type": "git",
